@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://182.92.187.58:3306/forum?ServerTimezone=GMT
+    username: root
+    password: GYzsk@951129
+
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
